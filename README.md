@@ -36,4 +36,3 @@ The template has a responsive design and some other pages and components that ad
 This is a work in progress, so there are still many features to be implemented.
 
 You can find the free web template used in this project [here](https://htmlcodex.com/).
-```
