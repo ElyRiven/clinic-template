@@ -12,22 +12,22 @@ npm run dev
 This is a website general template for a clinic, with the following pages:
 
 ## 🏠 HOME
-![image](public\img\home-page.png)
+![image](./public/img/home-page.png)
 
 This section has all the information about the clinic, such as the services offered, the team, and the contact information.
 
 ## 💁‍♂️ ABOUT
-![image](public\img\about-page.png)
+![image](./public/img/about-page.png)
 
 This section displays all the details about the clinic, such as the history, the team, and the services offered.
 
 ## 📝 SERVICE
-![image](public\img\service-page.png)
+![image](./public/img/service-page.png)
 
 This section displays all the services offered by the clinic, such as consultations, exams, and specialties.
 
 ## 📱 CONTACT
-![image](public\img\contact-page.png)
+![image](./public/img/contact-page.png)
 
 This section displays the contact information of the clinic, such as the address, phone number, and email.
 
